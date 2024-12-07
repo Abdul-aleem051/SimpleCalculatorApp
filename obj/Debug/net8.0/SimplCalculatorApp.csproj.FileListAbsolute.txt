@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\bin\Debug\net8.0\SimplCalculatorApp.exe
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\bin\Debug\net8.0\SimplCalculatorApp.deps.json
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\bin\Debug\net8.0\SimplCalculatorApp.runtimeconfig.json
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\bin\Debug\net8.0\SimplCalculatorApp.dll
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\bin\Debug\net8.0\SimplCalculatorApp.pdb
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\SimplCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\SimplCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\SimplCalculatorApp.AssemblyInfo.cs
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\SimplCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\SimplCalculatorApp.dll
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\refint\SimplCalculatorApp.dll
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\SimplCalculatorApp.pdb
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\SimplCalculatorApp.genruntimeconfig.cache
+C:\Users\User\Desktop\MGQS\SimplCalculatorApp\obj\Debug\net8.0\ref\SimplCalculatorApp.dll
